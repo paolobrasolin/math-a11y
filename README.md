@@ -8,3 +8,12 @@
 
 [numeronym-url]: https://en.wikipedia.org/wiki/Numeronym
 [leet-url]: https://en.wikipedia.org/wiki/Leet
+
+## MathML
+
+* [W3C Math Home](https://www.w3.org/Math/)
+* [The LaTeX Project | Articles ordered by topic: MathML, XML ...](https://www.latex-project.org/publications/indexbytopic/mathml/)
+
+## PDF
+
+* [The LaTeX Project | Articles ordered by topic: PDF, Tagging, Accessibility](https://www.latex-project.org/publications/indexbytopic/pdf/)
