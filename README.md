@@ -1,4 +1,4 @@
-# 🤝 math-a11y
+# 🤝 math-a11y <!-- omit in toc -->
 
 `math-a11y` is a collection of resources for math accessibility.
 
@@ -8,6 +8,10 @@
 
 [numeronym-url]: https://en.wikipedia.org/wiki/Numeronym
 [leet-url]: https://en.wikipedia.org/wiki/Leet
+
+**Table of Contents**
+- [MathML](#mathml)
+- [PDF](#pdf)
 
 ## MathML
 
