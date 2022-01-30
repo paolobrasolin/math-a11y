@@ -1,7 +1,4 @@
----
-title: 🤝 math-a11y
-permalink: /
----
+# 🤝 math-a11y
 
 `math-a11y` is a collection of resources for math accessibility.
 
