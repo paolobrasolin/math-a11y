@@ -16,6 +16,9 @@ Hopefully, accruing informations over time will afford us taking [decisive actio
 **Table of Contents**
 - [MathML](#mathml)
 - [PDF](#pdf)
+- [Conversion tools](#conversion-tools)
+- [Conversion projects](#conversion-projects)
+- [Research groups](#research-groups)
 
 ## MathML
 
@@ -25,3 +28,17 @@ Hopefully, accruing informations over time will afford us taking [decisive actio
 ## PDF
 
 * [(The LaTeX Project) Articles ordered by topic: PDF, Tagging, Accessibility](https://www.latex-project.org/publications/indexbytopic/pdf/)
+
+## Conversion tools
+
+* [LaTeXML – A LaTeX to XML/HTML/MathML Converter](https://math.nist.gov/~BMiller/LaTeXML/)
+* [Mathpix – Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.](https://mathpix.com/)
+
+## Conversion projects
+
+* [ar5iv – Articles from arXiv.org as responsive HTML5 web documents](https://ar5iv.org/)
+* [arXiv Vanity – Read academic papers from arXiv as web pages](https://www.arxiv-vanity.com/)
+
+## Research groups
+
+* [SIGMathLing – Special Interest Group on Maths Linguistics](https://sigmathling.kwarc.info/)
