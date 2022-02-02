@@ -27,6 +27,6 @@ convert -density 600 -resize 512x512 discord-logo.svg discord-logo.png
   <!-- <circle cx="0" cy="0" r="40" class="parens shadow"/> -->
   <path class="parens" d=" M 20 35 A 40 40 0 0 1 -20 35" />
   <path class="parens" d=" M -20 -35 A 40 40 0 0 1 20 -35" />
-  <text x="0" y="-3">MATH</text>
-  <text x="0" y="+25">A11Y</text>
+  <text x="0" y="-4">math</text>
+  <text x="0" y="+25">a11y</text>
 </svg>
