@@ -17,6 +17,7 @@ Hopefully, accruing informations over time will afford us taking [decisive actio
 - [MathML](#mathml)
 - [PDF](#pdf)
 - [Conversion tools](#conversion-tools)
+- [Assistive technologies](#assistive-technologies)
 - [Conversion projects](#conversion-projects)
 - [Research groups](#research-groups)
 
@@ -33,6 +34,11 @@ Hopefully, accruing informations over time will afford us taking [decisive actio
 
 * [LaTeXML – A LaTeX to XML/HTML/MathML Converter](https://math.nist.gov/~BMiller/LaTeXML/)
 * [Mathpix – Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.](https://mathpix.com/)
+
+## Assistive technologies
+
+* [Speech Rule Engine (SRE)](https://speechruleengine.org/)
+* [MathCAT](https://nsoiffer.github.io/MathCAT/)
 
 ## Conversion projects
 
